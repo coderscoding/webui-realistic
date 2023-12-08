@@ -92,7 +92,7 @@ def ini_fcbh_args():
     return args
 
 
-prepare_environment()
+# prepare_environment()
 build_launcher()
 args = ini_fcbh_args()
 
